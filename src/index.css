@@ -1,0 +1,33 @@
+@import '~toastr/build/toastr.css';
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+a {
+  padding: 5px;
+  margin: 5px;
+}
+
+form input {
+  padding: 3px;
+  margin-left: 30px;
+  width: 300px;
+  height: 20px;
+  border-radius: 5px solid black;
+}
+
+form label {
+  margin-right: 15px;
+  display: inline
+}
+
+.menu div {
+  display: inline-block;
+}
+
+ul li {
+  list-style-type:none
+}
